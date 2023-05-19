@@ -50,7 +50,6 @@ For any Arduino Project, a provided sketch is compiled. If it compiles its consi
 - [EMUcan Library](https://github.com/designer2k2/EMUcan/blob/main/.github/workflows/clang-format-check.yml) - Arduino formatting check like CRTL+T in Arduino IDE.
 - [Ethernet](https://github.com/arduino-libraries/Ethernet/blob/master/.github/workflows/check-arduino.yml) - Check for Arduino compliant library format.
 - [Spell check](https://github.com/designer2k2/EMUcan/blob/main/.github/workflows/spell-check.yml) - English spell check.
-- GitHub Markdown check.
 - [pyroscope](https://github.com/pyroscope-io/pyroscope/blob/main/.github/workflows/lint-markdown.yml) - Markdown check for not working links.
 
 ## Contributing
