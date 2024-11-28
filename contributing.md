@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thanks for considering to contribute! 
+Thanks for considering to contribute!
 
 ## Adding something to this awesome list
 
