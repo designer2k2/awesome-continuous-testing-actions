@@ -31,7 +31,6 @@ For Arduino librarys, this compiles all provided examples. If all compiles its c
 
 - [DS3231](https://github.com/NorthernWidget/DS3231/blob/master/.github/workflows/compile-examples.yml) - Compile all examples, bare minimum.
 - [STM32_CAN](https://github.com/pazi88/STM32_CAN/blob/main/.github/workflows/compile-examples.yml) - Compile all examples for STM32.
-- [ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP/blob/main/.github/workflows/compile-examples.yml) - Compile all examples for ESP32.
 - [EMUcan](https://github.com/designer2k2/EMUcan/blob/main/.github/workflows/compile-examples.yml) - Compile specific examples for Arduino, ESP32, Teensy4 and STM32.
 - [Stepper](https://github.com/arduino-libraries/Stepper/blob/master/.github/workflows/compile-examples.yml) - Compile for many targets (13!).
 
@@ -50,7 +49,7 @@ For any Arduino Project, a provided sketch is compiled. If it compiles its consi
 - [EMUcan Library](https://github.com/designer2k2/EMUcan/blob/main/.github/workflows/clang-format-check.yml) - Arduino formatting check like CRTL+T in Arduino IDE.
 - [Ethernet](https://github.com/arduino-libraries/Ethernet/blob/master/.github/workflows/check-arduino.yml) - Check for Arduino compliant library format.
 - [Spell check](https://github.com/designer2k2/EMUcan/blob/main/.github/workflows/spell-check.yml) - English spell check.
-- [pyroscope](https://github.com/pyroscope-io/pyroscope/blob/main/.github/workflows/lint-markdown.yml) - Markdown check for not working links.
+- [awesomelist](https://github.com/designer2k2/awesome-continuous-testing-actions/blob/main/.github/workflows/link-check.yml) - Markdown check for not working links.
 
 ## Contributing
 
