@@ -1,9 +1,10 @@
+---
 name: awesome checker
 on:
   - push
   - pull_request
 permissions: {}
-  
+
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
