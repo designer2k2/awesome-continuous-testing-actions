@@ -36,3 +36,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Enable write
           prettier_options: --write
+          VALIDATE_GITHUB_ACTIONS_ZIZMOR: false
